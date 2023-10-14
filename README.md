@@ -20,7 +20,7 @@ The dataset used in this project is the Wine Quality dataset, which is available
 
 1. Clone the repository: git clone https://github.com/your_username/wine-quality-prediction.git
 
-2. Install the required libraries: pip install -r requirements.txt
+2. Install the required libraries: pip install pip install pandas numpy scikit-learn matplotlib seaborn joblib
 
 
 ### Usage
