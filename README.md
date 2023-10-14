@@ -12,7 +12,7 @@ The dataset used in this project is the Wine Quality dataset, which is available
 
 ### Prerequisites
 
-- Python 3.x
+- Python 3.10.12
 - Jupyter Notebook
 - Required Python libraries (pandas, numpy, scikit-learn, matplotlib, seaborn)
 
