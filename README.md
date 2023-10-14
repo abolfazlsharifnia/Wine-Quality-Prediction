@@ -34,4 +34,9 @@ The model used in this project is a Random Forest regressor, which is trained on
 
 ## Results
 
-The model achieved an R-squared value of X.XX on the testing data, indicating a good fit to the data.
+The model achieved a Mean Squared Error (MSE) of 0.3046 on the testing data, indicating a good fit to the data. The best parameters for the Random Forest regressor were:
+
+- max_depth: 30
+- min_samples_leaf: 1
+- min_samples_split: 2
+- n_estimators: 150
